@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "tintinweb.vscode-ethover",
+        "tamasfe.even-better-toml",
+        "yzhang.markdown-all-in-one",
+        "ms-vscode.makefile-tools",
+        "nomicfoundation.hardhat-solidity"
+    ]
+}
