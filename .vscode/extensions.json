@@ -4,6 +4,8 @@
         "tamasfe.even-better-toml",
         "yzhang.markdown-all-in-one",
         "ms-vscode.makefile-tools",
-        "nomicfoundation.hardhat-solidity"
+        "nomicfoundation.hardhat-solidity",
+        "tintinweb.vscode-solidity-language",
+        "tintinweb.solidity-visual-auditor"
     ]
 }

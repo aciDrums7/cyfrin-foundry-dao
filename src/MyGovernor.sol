@@ -22,9 +22,9 @@ contract MyGovernor is
 {
     constructor(IVotes _token, TimelockController _timelock)
         Governor("MyGovernor")
-        GovernorSettings(1, /* 1 block */ 50400, /* 1 week */ 0)
+        GovernorSettings(7200, /* 1 block */ 50400, /* 1 week */ 0)
         GovernorVotes(_token)
-        GovernorVotesQuorumFraction(7)
+        GovernorVotesQuorumFraction(1)
         GovernorTimelockControl(_timelock)
     {}
 
